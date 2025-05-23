@@ -13,13 +13,13 @@
 
 ---
 
+
 ## 회로도
 
 아래 이미지는 본 프로젝트의 전체 회로 구성입니다.
 
-> 파일명: `pi.png` (README와 같은 폴더에 위치해야 함)
+![image](https://github.com/user-attachments/assets/0533a3cb-8132-426d-b0ee-6712169405cc)
 
-![회로도](./pi.png)
 
 ---
 
